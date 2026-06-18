@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shirish Man Shakya
 
-<!--
-**Shakya658/Shakya658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sydney-based Data Analyst with a Master of Data Science and Innovation
+from UTS.
 
-Here are some ideas to get you started:
+I use SQL, Power BI and Python to build reporting systems, analyse
+customer behaviour and turn complex data into practical business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+- HarbourMetrics — SaaS revenue, MRR and retention analytics
+- Retail Analytics Pipeline — 1.6M+ records using PostgreSQL and Power BI
+- Customer Churn — predictive modelling and retention analysis
+- Clinical Readmission Risk — explainable machine learning with SHAP
+
+## Core Skills
+
+SQL | PostgreSQL | Power BI | DAX | Python | Excel | Data Modelling
+
+## Links
+
+- Portfolio: https://shakya658.github.io/portfolio/
+- LinkedIn: https://linkedin.com/in/shirish-man-shakya
