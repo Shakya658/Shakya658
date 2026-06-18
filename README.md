@@ -46,7 +46,7 @@ An explainable machine-learning prototype for 30-day hospital readmission risk u
 - **Master of Data Science and Innovation**, University of Technology Sydney
   - GPA: 6.09 / 7.0
   - Academic Excellence Scholarship
-- **Data Operations Specialist**, Invisible Technologies
+- **Data Analyst**, Invisible Technologies
   - Worked with data quality, automation, validation and process improvement
 - **IT Systems and Data Supervisor**, Tripura Secondary School
   - Designed databases and supported operational digital transformation
