@@ -59,10 +59,9 @@ An explainable machine-learning prototype for 30-day hospital readmission risk u
 - Preparing for Microsoft PL-300 certification
 - Applying for Data Analyst, BI Analyst and Reporting Analyst roles across Australia
 
-## Other Projects
+## Other Project
 
 - [Tinfoil Hat Rater](https://github.com/Shakya658/tinfoil-hat-rater) — satirical TF-IDF and Logistic Regression text-classification app
-- [Pokémon Legendary Predictor](https://github.com/Shakya658) — XGBoost and SHAP classification project
 
 ## Contact
 
